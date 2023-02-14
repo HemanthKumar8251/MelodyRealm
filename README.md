@@ -1,8 +1,8 @@
-# MelodyRealm
+## MelodyRealm
 
 To perform your idea of creating a music room app using Django, you will need to have a good understanding of the following:
 
-# prerequisites
+# Prerequisites
 1. Django framework: This is the backbone of your app and you should have a good understanding of how to build a web app using Django.
 2. HTML, CSS, and JavaScript: You will need to build the front-end of your app and you should have a good understanding of these technologies.
 3. Music APIs: You will need to choose a music API (e.g. Spotify, SoundCloud) to access the music and you should have a good understanding of how to use the API.
